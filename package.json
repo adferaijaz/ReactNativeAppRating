@@ -29,16 +29,16 @@
     "rate"
   ],
   "author": {
-    "name": "Joel Arvidsson",
-    "email": "joel@oblador.se"
+    "name": "Adfer Aijaz",
+    "email": ""
   },
-  "homepage": "https://github.com/oblador/react-native-store-review",
+  "homepage": "https://github.com/adferaijaz/ReactNativeAppRating",
   "bugs": {
-    "url": "https://github.com/oblador/react-native-store-review/issues"
+    "url": "https://github.com/adferaijaz/ReactNativeAppRating/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/oblador/react-native-store-review.git"
+    "url": "git://github.com/adferaijaz/ReactNativeAppRating.git"
   },
   "license": "MIT"
 }
